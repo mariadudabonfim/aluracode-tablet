@@ -1,1 +1,1 @@
-https://github.com/mariadudabonfim/aluracode-tablet.git
+https://github.com/mariadudabonfim/aluracode-tablet
